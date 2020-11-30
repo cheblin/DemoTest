@@ -1,0 +1,3 @@
+X:\CLion\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\InCPP.dir/objects.a
+C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\ar.exe cr CMakeFiles\InCPP.dir/objects.a @CMakeFiles\InCPP.dir\objects1.rsp
+C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\InCPP.dir/objects.a -Wl,--no-whole-archive  -o InCPP.exe -Wl,--out-implib,libInCPP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\InCPP.dir\linklibs.rsp

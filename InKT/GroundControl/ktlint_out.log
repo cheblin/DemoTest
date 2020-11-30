@@ -1,0 +1,4 @@
+R:\CodoGen\HTTP_127.0.0.1\40961690c097dc6f871e@1606730552418@Test.java\InKT\GroundControl\com\company\demo\GroundControl\GroundControl.kt:11899:48: Not a valid Kotlin file (expecting an element) (cannot be auto-corrected)
+R:\CodoGen\HTTP_127.0.0.1\40961690c097dc6f871e@1606730552418@Test.java\InKT\GroundControl\com\company\demo\GroundControl\util_\Util.kt:2:1: Package name must not contain underscore (cannot be auto-corrected)
+R:\CodoGen\HTTP_127.0.0.1\40961690c097dc6f871e@1606730552418@Test.java\InKT\GroundControl\com\company\demo\GroundControl\util_\Util.kt:2:47: Wildcard import (cannot be auto-corrected)
+R:\CodoGen\HTTP_127.0.0.1\40961690c097dc6f871e@1606730552418@Test.java\InKT\GroundControl\com\company\demo\GroundControl\util_\Util.kt:4:8: Wildcard import (cannot be auto-corrected)
